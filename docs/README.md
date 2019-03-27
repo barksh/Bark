@@ -10,7 +10,7 @@ Bark-CLI
 
 Bark-GUI
 
-[Bark-Core]([Bark-Core](https://github.com/barksh/Core))
+[Bark-Core](https://github.com/barksh/Core)
 
 [![Build Status](https://travis-ci.com/barksh/Core.svg?branch=master)](https://travis-ci.com/barksh/Core)
 [![codecov](https://codecov.io/gh/barksh/Core/branch/master/graph/badge.svg)](https://codecov.io/gh/barksh/Core)
