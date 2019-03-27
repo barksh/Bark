@@ -12,7 +12,7 @@ Programming languages are not a barrier to software engineers, complex configura
 
 ## Sources
 
-Get template source from [Bark-Templates](https://github.com/barksh/Templates)
+Get template source from [Bark-Templates](https://github.com/barksh/Bark-Templates)
 
 ```sh
 https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
