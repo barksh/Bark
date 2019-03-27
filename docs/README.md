@@ -4,6 +4,20 @@
 
 Programming languages are not a barrier to software engineers, complex configuration files are.
 
+## Packages
+
+[Bark-CLI](https://github.com/barksh/Bark-CLI)
+|
+[Bark-Core](https://github.com/barksh/Core)
+
+## Sources
+
+Get template source from [Bark-Templates](https://github.com/barksh/Templates)
+
+```sh
+https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
+```
+
 ## Status
 
 [Bark-CLI](https://github.com/barksh/Bark-CLI)
@@ -12,10 +26,6 @@ Programming languages are not a barrier to software engineers, complex configura
 [![codecov](https://codecov.io/gh/barksh/Bark-CLI/branch/master/graph/badge.svg)](https://codecov.io/gh/barksh/Bark-CLI)
 [![npm version](https://badge.fury.io/js/%40barksh%2Fbark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
 [![downloads](https://img.shields.io/npm/dm/@barksh/bark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
-
-Bark-GUI
-
-> Coming Soon :D
 
 [Bark-Core](https://github.com/barksh/Core)
 
