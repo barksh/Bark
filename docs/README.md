@@ -27,6 +27,13 @@ https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
 [![npm version](https://badge.fury.io/js/%40barksh%2Fbark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
 [![downloads](https://img.shields.io/npm/dm/@barksh/bark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
 
+[Bark-Config](https://github.com/barksh/Config)
+
+[![Build Status](https://travis-ci.com/barksh/Config.svg?branch=master)](https://travis-ci.com/barksh/Config)
+[![codecov](https://codecov.io/gh/barksh/Config/branch/master/graph/badge.svg)](https://codecov.io/gh/barksh/Config)
+[![npm version](https://badge.fury.io/js/%40barksh%2Fconfig.svg)](https://www.npmjs.com/package/@barksh/config)
+[![downloads](https://img.shields.io/npm/dm/@barksh/config.svg)](https://www.npmjs.com/package/@barksh/config)
+
 [Bark-Core](https://github.com/barksh/Core)
 
 [![Build Status](https://travis-ci.com/barksh/Core.svg?branch=master)](https://travis-ci.com/barksh/Core)
