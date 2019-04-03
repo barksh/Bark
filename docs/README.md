@@ -6,7 +6,7 @@ Programming languages are not a barrier to software engineers, complex configura
 
 ## Install
 
-Get the CLI tool by npm:
+Get the CLI tool through npm:
 
 ```
 npm install -g @barksh/cli
