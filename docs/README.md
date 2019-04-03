@@ -4,11 +4,13 @@
 
 Programming languages are not a barrier to software engineers, complex configuration files are.
 
-## Packages
+## Install
 
-[Bark-CLI](https://github.com/barksh/Bark-CLI)
-|
-[Bark-Core](https://github.com/barksh/Core)
+Get the CLI tool by npm:
+
+```
+npm install -g @barksh/cli
+```
 
 ## Sources
 
