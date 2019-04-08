@@ -20,6 +20,11 @@ Get template source from [Bark-Templates](https://github.com/barksh/Bark-Templat
 https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
 ```
 
+## Documents
+
+- [About Source](https://github.com/barksh/Bark/blob/master/docs/source.md)
+- [About Template](https://github.com/barksh/Bark/blob/master/docs/template.md)
+
 ## Status
 
 [Bark-CLI](https://github.com/barksh/Bark-CLI)
