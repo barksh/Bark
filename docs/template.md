@@ -13,6 +13,8 @@ Template files of one of the follow type will be parsed, other files will be tre
 
 ## Structure
 
+The config file is not required.
+
 The following property is available:
 
 - scripts (optional)

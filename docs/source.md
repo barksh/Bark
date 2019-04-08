@@ -13,11 +13,12 @@ The following property is available:
   - Children
     - Type: `Object`
     - Properties
-      - name (optional): `string`
+      - name: `string`
       - url: `string`
       - version: `string`
+- name (optional): string
 
-If name is not specified, a default name will be generated.
+Name of source priorities: User > Config > Random (if config file doesn't have one)
 
 ## Relative
 
