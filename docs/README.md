@@ -8,22 +8,32 @@ Programming languages are not a barrier to software engineers, complex configura
 
 Get the CLI tool through npm:
 
-```
+```sh
 npm install -g @barksh/cli
 ```
 
 ## Sources
 
-Get template source from [Bark-Templates](https://github.com/barksh/Bark-Templates)
+Get template source from [Bark-Templates](https://github.com/barksh/Bark-Templates).
 
 ```sh
 https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
 ```
 
+## Contribute
+
+Create your own package with the following command on `@barksh/package` cli.
+
+```sh
+bark-pack <Template folder> <Target file>
+# Example
+bark-pack ./template ./dist/template.zip
+```
+
 ## Documents
 
-- [About Source](https://github.com/barksh/Bark/blob/master/docs/source.md)
-- [About Template](https://github.com/barksh/Bark/blob/master/docs/template.md)
+-   [About Source](https://github.com/barksh/Bark/blob/master/docs/source.md)
+-   [About Template](https://github.com/barksh/Bark/blob/master/docs/template.md)
 
 ## Status
 
@@ -33,6 +43,13 @@ https://raw.githubusercontent.com/barksh/Bark-Templates/master/source.json
 [![codecov](https://codecov.io/gh/barksh/Bark-CLI/branch/master/graph/badge.svg)](https://codecov.io/gh/barksh/Bark-CLI)
 [![npm version](https://badge.fury.io/js/%40barksh%2Fbark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
 [![downloads](https://img.shields.io/npm/dm/@barksh/bark-cli.svg)](https://www.npmjs.com/package/@barksh/bark-cli)
+
+[Bark-Package](https://github.com/barksh/Package)
+
+[![Build Status](https://travis-ci.com/barksh/Package.svg?branch=master)](https://travis-ci.com/barksh/Package)
+[![codecov](https://codecov.io/gh/barksh/Package/branch/master/graph/badge.svg)](https://codecov.io/gh/barksh/Package)
+[![npm version](https://badge.fury.io/js/%40barksh%2Fpackage.svg)](https://www.npmjs.com/package/@barksh/package)
+[![downloads](https://img.shields.io/npm/dm/@barksh/package.svg)](https://www.npmjs.com/package/@barksh/package)
 
 [Bark-Config](https://github.com/barksh/Config)
 
